@@ -1,0 +1,10 @@
+{
+  "name": "test",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/node": "^22.9.3",
+    "better-typescript-lib": "^2.9.0",
+    "typescript": "^5.7.2"
+  }
+}
